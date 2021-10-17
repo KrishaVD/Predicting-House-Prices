@@ -1,4 +1,4 @@
-# Predicting-House-Prices
+# Predicting House Prices using the Linear Regression Model in ML
 
 In this project, I wanted to predict the House Prices using the Linear Regression model from ML. I recognsied that the data had huge amounts of misisng data values. Since there were a lot of features in the dataset, I dceided to drop some features such as 'Alley', 'PoolQC', 'Fence', 'MiscFeature','GarageYrBlt','Id' as these had little correlation with the sale price and for the other missing values, I had replaced them with mean or mode values.
 
